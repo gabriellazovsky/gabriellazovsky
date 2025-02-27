@@ -3,7 +3,7 @@
 
 
 * 🌍  I'm based in Spain
-* 🧠  I'm learning Studying Information Systems Engineering | Business Administration and Management
+* 🧠  I'm learning Information Systems Engineering | Business Administration and Management
 
 <a href="https://www.github.com/gabriellazovsky" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gabriellazovsky?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
